@@ -9,8 +9,6 @@ class Solution:
         while(fast.next != None and fast.next.next != None):
             slow = slow.next
             fast = fast.next.next
-        # new_head = slow.next
-        # slow = head
         new_head = self.reverse_linkedlist(slow.next)
         first = head
         second = new_head
