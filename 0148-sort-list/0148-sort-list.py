@@ -5,14 +5,26 @@
 #         self.next = next
 class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        arr = []
-        temp = head
-        while temp is not None:
-            arr.append(temp.val)
-            temp = temp.next
-        arr.sort()
-        temp = head
-        for i in range(len(arr)):
-            temp.val = arr[i]
-            temp = temp.next
-        return head
+        if head is None or head.next is None:
+            return head
+        slow = head
+        fast = head.next
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+        mid = slow.next
+        slow.next = None
+        left = self.sortList(head)
+        right = self.sortList(mid)
+        dummy = ListNode(0)
+        curr = dummy
+        while left and right:
+            if left.val <= right.val:
+                curr.next = left
+                left = left.next
+            else:
+                curr.next = right
+                right = right.next
+            curr = curr.next
+        curr.next = left if left else right
+        return dummy.next
