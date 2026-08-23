@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
