@@ -8,6 +8,7 @@
 | [0141-linked-list-cycle](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
@@ -76,4 +78,12 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
