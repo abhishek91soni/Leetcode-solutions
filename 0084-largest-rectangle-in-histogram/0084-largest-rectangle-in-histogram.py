@@ -4,7 +4,7 @@ class Solution:
         pse = [-1] * n
         nse = [n] * n
         stack = []
-        # Previous Smaller
+
         for i in range(n):
             while stack and heights[stack[-1]] >= heights[i]:
                 stack.pop()
@@ -20,7 +20,7 @@ class Solution:
             if stack:
                 nse[i] = stack[-1]
             stack.append(i)
-            
+
         max_area = 0
         for i in range(n):
             width = nse[i] - pse[i] - 1
