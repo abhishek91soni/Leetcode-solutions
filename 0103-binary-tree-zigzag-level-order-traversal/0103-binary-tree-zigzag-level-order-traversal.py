@@ -11,7 +11,7 @@ class Solution:
         if root is None:
             return arr
         q = deque([root])
-        flag = 0
+        reverse = False
         while q:
             level = []
             for _ in range(len(q)):
@@ -21,18 +21,10 @@ class Solution:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            if flag == 0:
-                left = []
-                for x in level:
-                    left.append(x)
-                arr.append(left)
-                flag = 1
-            else:
-                right = []
-                for x in level[::-1]:
-                    right.append(x)
-                arr.append(right)
-                flag = 0
+            if reverse:
+                level.reverse()
+            arr.append(level)
+            reverse = not reverse
         return arr
             
                 
