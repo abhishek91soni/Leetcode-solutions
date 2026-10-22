@@ -8,6 +8,7 @@
 | [0141-linked-list-cycle](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
@@ -106,6 +108,7 @@
 | [0066-plus-one](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0217-contains-duplicate](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0735-asteroid-collision) |
