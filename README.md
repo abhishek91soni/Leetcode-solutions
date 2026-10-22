@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0496-next-greater-element-i](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
