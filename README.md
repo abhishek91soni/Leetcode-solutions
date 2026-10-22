@@ -103,6 +103,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0496-next-greater-element-i](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
