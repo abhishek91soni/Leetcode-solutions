@@ -10,6 +10,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -42,6 +43,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -81,6 +83,7 @@
 | [0148-sort-list](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
@@ -113,6 +116,7 @@
 | [0118-pascals-triangle](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -240,6 +244,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
