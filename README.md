@@ -117,6 +117,7 @@
 | [0503-next-greater-element-ii](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1480-running-sum-of-1d-array](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -256,4 +257,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/abhishek91soni/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
